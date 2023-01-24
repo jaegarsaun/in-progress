@@ -1,6 +1,6 @@
 # Java Game (title pending)
 <br>
-##Todo
+<h3>Todo</h3>
 <br>
 - Plan out game<br>
 - Create art for game<br>
