@@ -1,6 +1,7 @@
 # Java Game (title pending)
 <br>
-###Todo
-- Plan out game
-- Create art for game
+##Todo
+<br>
+- Plan out game<br>
+- Create art for game<br>
 - Code game
